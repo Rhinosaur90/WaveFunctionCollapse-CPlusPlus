@@ -1,4 +1,4 @@
-# WaveFunctionCollapse
+# WaveFunctionCollapse in C++
  Simple Wave Function Collapse Program
 
 Just run Program to see The Wave Function... Collapse
