@@ -1,0 +1,10 @@
+﻿  WaveFunctionCollapseTest.cpp
+C:\Users\nsfoo\OneDrive\Desktop\Coding Portfolio\C++\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest.cpp(81,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nsfoo\OneDrive\Desktop\Coding Portfolio\C++\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest.cpp(324,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nsfoo\OneDrive\Desktop\Coding Portfolio\C++\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest.cpp(348,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  9 of 459 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WaveFunctionCollapseTest.vcxproj -> C:\Users\nsfoo\OneDrive\Desktop\Coding Portfolio\C++\WaveFunctionCollapseTest\WaveFunctionCollapseTest\x64\Release\WaveFunctionCollapseTest.exe

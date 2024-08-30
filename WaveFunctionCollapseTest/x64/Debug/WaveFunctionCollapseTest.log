@@ -1,0 +1,5 @@
+﻿  WaveFunctionCollapseTest.cpp
+C:\Users\nschuster\OneDrive - Gearbox Software\Desktop\ProceduralGen\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest.cpp(80,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nschuster\OneDrive - Gearbox Software\Desktop\ProceduralGen\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest.cpp(325,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nschuster\OneDrive - Gearbox Software\Desktop\ProceduralGen\WaveFunctionCollapseTest\WaveFunctionCollapseTest\WaveFunctionCollapseTest.cpp(349,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WaveFunctionCollapseTest.vcxproj -> C:\Users\nschuster\OneDrive - Gearbox Software\Desktop\ProceduralGen\WaveFunctionCollapseTest\x64\Debug\WaveFunctionCollapseTest.exe
