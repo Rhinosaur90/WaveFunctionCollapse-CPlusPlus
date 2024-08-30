@@ -10,7 +10,7 @@
 #include <vector>
 
 // Constant Variables
-const int SIDESIZE = 110; // Legnth of each side of the grid
+const int SIDESIZE = 30; // Legnth of each side of the grid
 const int SIZEARRAY = SIDESIZE * SIDESIZE; // # of indexs in grid
 const int OPTIONSIZE = 5; // How many options a index can be (ex: 0 - " ", 1 - "^", 2 - ">", 3 - "v", 4 - "<")
 
